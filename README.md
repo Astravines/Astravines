@@ -31,4 +31,4 @@
 
 ## 📫 Contact Me
 - GitHub: https://github.com/Astravines
-- Email: yinnweoo532@example.com
+- Email: yinnweoo532@gmail.com
